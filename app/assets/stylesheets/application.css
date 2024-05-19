@@ -104,3 +104,7 @@ td {
 label {
     display: block;
 }
+
+a {
+    color: #000;
+}
